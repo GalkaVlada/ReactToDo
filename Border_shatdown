@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+  <header>
+<div class="white">1</div>
+<div class="black">2</div>
+  </header>
+ </body>
+ <style>
+ body{
+  background-color:gray;
+}
+.white{
+  background-color:white;
+  font-size:100px;
+  text-align:center;
+  width:200px;
+  height:200px;
+  display:inline-block;
+  box-shadow: 0.2em 0.2em 20px rgba(0,0,0,0.5);	
+  
+}
+.black{
+  margin-left:30px;
+  background-color:black;
+  font-size:100px;
+  color:white;
+  text-align:center;
+  width:200px;
+  height:200px;
+  display:inline-block;
+  box-shadow: 0.2em 0.2em 20px rgba(255,255,255,0.5);	
+}
+ </style>
+</html>
